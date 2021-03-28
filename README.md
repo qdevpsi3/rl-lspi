@@ -3,7 +3,7 @@
 
 [![paper](https://img.shields.io/static/v1.svg?label=Paper&message=LP03&color=blue)](https://jmlr.csail.mit.edu/papers/v4/lagoudakis03a.html)
 [![language](https://img.shields.io/static/v1.svg?label=Language&message=Python&color=blue)](https://www.python.org/)
-[![packages](https://img.shields.io/static/v1.svg?label=Made%20with&message=Gym&color=blue)](https://gym.openai.com)
+[![packages](https://img.shields.io/static/v1.svg?label=Made%20with&message=Gym&color=31bac6)](https://gym.openai.com)
 [![license](https://img.shields.io/static/v1.svg?label=License&message=GPL%20v3.0&color=blue)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![exp_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qdevpsi3/rl-lspi/blob/main/notebooks/experiment_1.ipynb)
 </div>
